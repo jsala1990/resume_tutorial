@@ -23,4 +23,3 @@
   - toggle markdown preview
   - checkout Makefile `make default`
   - write .h1 color change in style.css
-## download pandoc with brew or
