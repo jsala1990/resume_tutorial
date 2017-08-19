@@ -4,7 +4,7 @@
 | [Pandoc](http://pandoc.org/installing.html) |
 | [Atom](https://atom.io/) |
 
-# define what is version control (mercurial)
+# define what is version control
 
 - client-server model
   - subversion
