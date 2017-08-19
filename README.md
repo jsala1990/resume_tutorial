@@ -1,7 +1,8 @@
 | links               |
 |---------------------|
 | [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) |
-| (Pandoc)[http://pandoc.org/installing.html] |
+| [Pandoc](http://pandoc.org/installing.html) |
+| [Atom](https://atom.io/) |
 
 # define what is version control (mercurial)
 
@@ -18,6 +19,6 @@
 ## title, h1, h2 examples
 
 # start tutorial
-## download atom
-## checkout toggle
+- download atom
+- checkout toggle
 ## download pandoc with brew or
