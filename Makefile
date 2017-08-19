@@ -1,7 +1,6 @@
-default: clean html
+default: html
 
-html: compile_html
-compile_html: src/style.css src/resume.md
+html: clean src/style.css src/resume.md
 	pandoc --standalone --css=../src/style.css \
 	--from markdown \
 	--to html \
