@@ -1,6 +1,6 @@
 # j saladbar
 
-## email@email.com | (555) 555-5555
+### email@email.com | (555) 555-5555
 
 
 ## Objective
@@ -9,6 +9,7 @@ Some objective that captures what I can provide a company and what I'm looking f
 
 ## Experience
 **Role/Title - Company Name | Mon Year - Mon Year**
+
 Description of the company and what you did in the role, super high level
 - list of something i did
 - another thing
