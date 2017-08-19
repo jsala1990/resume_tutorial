@@ -21,6 +21,6 @@
 # start tutorial
   - download atom
   - toggle markdown preview
-  - checkout makefile
+  - checkout Makefile `make default`
   - write .h1 color change in style.css
 ## download pandoc with brew or
