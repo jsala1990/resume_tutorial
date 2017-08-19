@@ -1,6 +1,6 @@
 # j saladbar
 
-### email@email.com | (555) 555-5555
+#### email@email.com | (555) 555-5555
 
 
 ## Objective
