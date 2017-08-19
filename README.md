@@ -6,19 +6,21 @@
 
 # define what is version control (mercurial)
 
-## client-server model
-### subversion
+- client-server model
+  - subversion
 
-## distributed model
-### mercurial
-### git
+- distributed model
+  - mercurial
+  - git
 
 # define what markdown is
 
 # components in a resume
-## title, h1, h2 examples
+  - title, h1, h2 examples
 
 # start tutorial
-- download atom
-- checkout toggle
+  - download atom
+  - toggle markdown preview
+  - checkout makefile
+  - write .h1 color change in style.css
 ## download pandoc with brew or
