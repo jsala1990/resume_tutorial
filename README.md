@@ -14,7 +14,7 @@
 
 - distributed model
   - mercurial
-  - git
+  - [git](https://www.git-scm.com/book/en/v2/images/small-team-flow.png)
 
 # What is markdown?
 
