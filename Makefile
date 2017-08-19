@@ -1,4 +1,4 @@
-all: html
+default: html
 
 html: compiled_resume.html
 compiled_resume.html: style.css resume.md
