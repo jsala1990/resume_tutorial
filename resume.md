@@ -5,7 +5,7 @@
 
 ## Objective
 
-Some objective that captures what I can provide a company and what I'm looking for in the future
+This objective has been changed for a non profit objective
 
 ## Experience
 **Role/Title - Company Name | Mon Year - Mon Year**
