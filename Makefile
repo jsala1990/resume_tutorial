@@ -1,17 +1,12 @@
-default: html
+default: clean html
 
-html: compiled_resume.html
-compiled_resume.html: style.css resume.md
-	pandoc -x-standalone --css=style.css \
+html: compile_html
+compile_html: src/style.css src/resume.md
+	pandoc --standalone --css=../src/style.css \
 	--from markdown \
 	--to html \
-	-o compiled_resume.html resume.md
-
-pdf: style.css resume.md compiled_resume.html
-	pandoc -x-standalone \
-	--from html \
-	--to pdf \
-	-o compiled_resume.pdf resume.html
+	-o output/compiled_resume.html src/resume.md
 
 clean:
-	rm compiled_resume.html
+	rm -rf output
+	mkdir output
