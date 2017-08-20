@@ -6,7 +6,6 @@
 | [Bad resume 2](http://www.craigkunce.com/job-search/bad_resume_sample3.gif) |
 | [Bad resume 3](http://nebula.wsimg.com/5b986e1d80ba7a902a9f5cbb35285118?AccessKeyId=1FA960172D5964949643&disposition=0&alloworigin=1) |
 | [Good resume 1]() |
-| [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) |
 
 # What is version control?
 - client-server model
@@ -21,7 +20,7 @@
 
 # What are components?
   - [mobile example](http://coenraets.org/blog/wp-content/uploads/2014/12/uimockscript.png)
-  - title, h1, h2 examples
+  - [title, h1, h2 examples](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # start tutorial
   - download atom
