@@ -1,8 +1,7 @@
-Jesus Salazar
-============
-------------------------------------------
-jsalazar@someemail.com | (555) 555-5555
-------------------------------------------
+# Jesus Salazar
+
+##### jsalazar@someemail.com | (555) 555-5555
+
 ----
 
 Objective
