@@ -13,6 +13,8 @@
   - [mobile example](http://coenraets.org/blog/wp-content/uploads/2014/12/uimockscript.png)
   - [title, h1, h2 examples](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+# Why version control?
+
 # start tutorial
   - download atom
   - toggle markdown preview
