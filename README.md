@@ -21,7 +21,8 @@
   - checkout Makefile `make default`
   - write .h1 color change in style.css
 
-  | links               |
+# links
+
   |---------------------|
   | [Atom](https://atom.io/) |
   | [Pandoc](http://pandoc.org/installing.html) |
