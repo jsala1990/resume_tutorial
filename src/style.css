@@ -13,6 +13,15 @@ h1 {
     margin-bottom:15px;
 }
 
+h2:before {
+    content: " ";
+    display: inline-block;
+    margin-right: 1%;
+    background-color: #9CB770;
+    width: 16%;
+    height: 10px;
+}
+
 h2 {
     color: #397249;
 }
