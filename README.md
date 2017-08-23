@@ -7,6 +7,7 @@
 | [Bad resume 2](http://www.craigkunce.com/job-search/bad_resume_sample3.gif) |
 | [Bad resume 3](http://nebula.wsimg.com/5b986e1d80ba7a902a9f5cbb35285118?AccessKeyId=1FA960172D5964949643&disposition=0&alloworigin=1) |
 | [Good resume 1]() |
+| [Jesus' resume]() |
 
 # What is version control?
 - client-server model
