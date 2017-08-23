@@ -14,6 +14,7 @@
   - [title, h1, h2 examples](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # Why version control?
+  - [Git has some great examples](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 
 # start tutorial
   - download atom
