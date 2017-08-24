@@ -35,3 +35,5 @@
 | [Good resume 1]() |
 | [Jesus' resume]() |
 | [Agile Manifesto](http://agilemanifesto.org/) |
+# Questions
+  - Clone or Fork a Repo? 
