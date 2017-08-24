@@ -36,7 +36,6 @@
 | [Jesus' resume]() |
 | [Agile Manifesto](http://agilemanifesto.org/) |
 
-
-| FAQ |
-|-------|
-| What is a static site? V. dynamic |
+# Questions
+  - Clone or Fork a Repo? 
+  - What is a static site? V. dynamic
