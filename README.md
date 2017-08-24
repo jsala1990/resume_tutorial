@@ -40,5 +40,3 @@
 | FAQ |
 |-------|
 | What is a static site? V. dynamic |
-| sinatra v. rails |
-| Jekyll |
