@@ -35,3 +35,10 @@
 | [Good resume 1]() |
 | [Jesus' resume]() |
 | [Agile Manifesto](http://agilemanifesto.org/) |
+
+
+| FAQ |
+|-------|
+| What is a static site? V. dynamic |
+| sinatra v. rails |
+| Jekyll |
